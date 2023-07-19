@@ -11,7 +11,7 @@ Make a virtual environment in a seperate directory
 Copy this directory where virtual environment was installed, then activate the environment
 
 ```
-(terminal_path/mydir) env\Sripts\activate
+(terminal_path/mydir) env\Scripts\activate
 (env)(terminal_path/mydir)
 ```
 
